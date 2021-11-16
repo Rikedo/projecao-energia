@@ -1,0 +1,1 @@
+Modelo ARIMA para projeção da variavel Consumo de energia industrial da região Sudeste (en_ind_se)
